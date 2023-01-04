@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes-->
 - 👋 Hi, I’m @Bhavesh-Khandar
 - 👀 I’m interested in Travelling
 - 🌱 I’m currently learning Redux
-- 📫 How to reach me ...
+
 
 
 <!---
