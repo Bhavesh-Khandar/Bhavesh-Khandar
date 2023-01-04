@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 <br> 
 <div align="center">
   <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
-    <a href="[mailto:harshalkitukale005@gmail.com](https://www.linkedin.com/in/bhavesh-khandar-0a2a62192)">
+    <a href="https://www.linkedin.com/in/bhavesh-khandar-0a2a62192">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width:100px; height:30px">
     </a>
     <a href="mailto:khandarbhavesh7@gmail.com">
